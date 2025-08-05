@@ -1,7 +1,7 @@
 <!-- Header with Icon -->
 <div align="center">
   <img src="imgs/logo.png" alt="Tool Logo" width="300" />
-  <h1>Optima</h1>
+  <h2>Optima</h2>
   <h3>OPTimized Interpretable Model Building & Analysis Toolkit</h3>
 </div>
 
@@ -11,7 +11,8 @@
 
 You can download the latest release from SourceForge:
 
-[![Download Optima - AI/ML based GUI toolkit](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/optima-guitoolkit/files/latest/download)
+[![Download Optima - ML based GUI toolkit](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/optima-guitoolkit/files/latest/download)
+[![Download Optima - ML based GUI toolkit](https://img.shields.io/sourceforge/dt/optima-guitoolkit.svg)](https://sourceforge.net/projects/optima-guitoolkit/files/latest/download)
 
 ---
 
@@ -30,11 +31,8 @@ You can download the latest release from SourceForge:
 
 ---
 
-## 🖼️ Preview
+## License
 
-![Preview 1](imgs/preview_1.png)
-![Preview 2](imgs/preview_2.png)
-![Preview 3](imgs/preview_3.png)
-
+This project is licensed under the [MIT License](LICENSE).
 
 ---
