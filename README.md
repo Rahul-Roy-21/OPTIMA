@@ -9,10 +9,8 @@
 
 ## 🔗 Download
 
-You can download the latest release from SourceForge:
-
-[![Download Optima - ML based GUI toolkit](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/optima-guitoolkit/files/latest/download)
-[![Download Optima - ML based GUI toolkit](https://img.shields.io/sourceforge/dt/optima-guitoolkit.svg)](https://sourceforge.net/projects/optima-guitoolkit/files/latest/download)
+You can download the latest release from this Google Drive link: 
+👉https://drive.google.com/file/d/1gXB0fw0KCyaFM3x7cVCF7gOfZ-5bBQof/view?usp=sharing
 
 ---
 
