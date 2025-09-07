@@ -10,8 +10,7 @@
 ## 🔗 Download
 
 You can download the latest release from this Google Drive link: 
-👉https://drive.google.com/file/d/1gXB0fw0KCyaFM3x7cVCF7gOfZ-5bBQof/view?usp=sharing
-
+👉 https://drive.google.com/file/d/1ih9IYKDb6xK6U2NHeGJuBcd1dC4T3T_C/view?usp=sharing
 ---
 
 ## ✨ Features
