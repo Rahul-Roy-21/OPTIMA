@@ -1,6 +1,6 @@
 <!-- Header with Icon -->
 <div align="center">
-  <img src="imgs/logobanner.png" alt="Tool Logo" width="300" />
+  <img src="imgs/logobanner.png" alt="Tool Logo" width="500" />
   <h2>Optima</h2>
   <p>OPTimized Interpretable Model Building & Analysis Toolkit</p>
 </div>
@@ -9,8 +9,7 @@
 
 ## 🔗 Download
 
-You can download the latest release from this Google Drive link: 
-👉 https://drive.google.com/file/d/1vIOCH93RLLQokn4JmyA2AKc9G7S-x_eh/view?usp=sharing
+[Optima_v1.0.0-FINAL.zip](https://drive.google.com/file/d/108WkNAmSpZO1Qi15qyZL1d6sMaQoNPBe/view?usp=sharing)
 ---
 
 ## ✨ Features
