@@ -8,11 +8,15 @@
 
 ## 🔗 Download
 
-[Optima_v1.0.0-FINAL.zip](https://drive.google.com/file/d/13DUb1QxtvsWG6PlqiacQWHVN3vw8-h1I/view?usp=sharing)
+- [Optima_v1.0.0-FINAL.zip](https://drive.google.com/file/d/13DUb1QxtvsWG6PlqiacQWHVN3vw8-h1I/view?usp=sharing)
+
+## 🔐 Verify Integrity
+
+- SHA256 checksum: 3a5c3d49c49c8016937c55c533d6c0e62ace5a8cfe50fb61732599be5ef7c702
 
 ## 📝 Cite Us
 
-Dasgupta, I., Roy, R., & Gayen, S. (2026). Optima: a GUI-based toolkit for developing and validating interpretable machine learning based supervised classification QSAR models. SAR and QSAR in Environmental Research, 1–17. 
+- Dasgupta, I., Roy, R., & Gayen, S. (2026). Optima: a GUI-based toolkit for developing and validating interpretable machine learning based supervised classification QSAR models. SAR and QSAR in Environmental Research, 1–17. 
 https://doi.org/10.1080/1062936X.2026.2649822
 
 ## ✨ Features
