@@ -5,12 +5,15 @@
   <p>OPTimized Interpretable Model Building & Analysis Toolkit</p>
 </div>
 
----
 
 ## 🔗 Download
 
 [Optima_v1.0.0-FINAL.zip](https://drive.google.com/file/d/13DUb1QxtvsWG6PlqiacQWHVN3vw8-h1I/view?usp=sharing)
----
+
+## 📝 Cite Us
+
+Dasgupta, I., Roy, R., & Gayen, S. (2026). Optima: a GUI-based toolkit for developing and validating interpretable machine learning based supervised classification QSAR models. SAR and QSAR in Environmental Research, 1–17. 
+https://doi.org/10.1080/1062936X.2026.2649822
 
 ## ✨ Features
 
